@@ -1,8 +1,0 @@
-<?php
-
-    printf("Hello There");
-
-
-
-
-?>
